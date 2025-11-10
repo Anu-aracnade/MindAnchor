@@ -1,5 +1,6 @@
-# GUI
-tkinter
+# GUI->
+# tkinter comes pre-installed with Python
+
 
 # Computer Vision
 opencv-python
