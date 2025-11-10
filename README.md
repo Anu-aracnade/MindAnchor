@@ -1,6 +1,6 @@
 # 🧠 MindAnchor ⚓
 
-**MindAnchor** — a smart focus companion app built in just 24 hours during **Hack-O-Oct 3.0**, organized by **GDG Chandigarh University**. Created by **Team Quantum Overdrive**, MindAnchor helps Gen Z students fight distractions, track focus, and improve productivity using AI-powered guidance, webcam presence detection, and a friendly chatbot named **Anchor**.
+**MindAnchor** — a smart focus companion app built in just 24 hours during **Hack-O-Octo 3.0**, organized by **GDG Chandigarh University**. Created by **Team Quantum Overdrive**, MindAnchor helps Gen Z students fight distractions, track focus, and improve productivity using AI-powered guidance, webcam presence detection, and a friendly chatbot named **Anchor**.
 
 ---
 
@@ -140,7 +140,7 @@ MindAnchor began as a 24-hour hackathon prototype — but we’re building it in
 
 ## 👨‍💻 Team & Credits
 
-**Team Quantum Overdrive** — Hack-O-Oct 3.0, GDG Chandigarh University (8–9 Nov 2025)
+**Team Quantum Overdrive** — Hack-O-Octo 3.0, GDG Chandigarh University (8–9 Nov 2025)
 
 | Member             | Role                                                                                                        |
 | ------------------ | ----------------------------------------------------------------------------------------------------------- |
