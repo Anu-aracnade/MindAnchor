@@ -16,6 +16,8 @@ sqlite3
 chatterbot
 chatterbot-corpus
 ollama
+spacy
+# Ollama is an external dependency (install separately from https://ollama.com)
 
 # Future ML integration (planned)
 # scikit-learn

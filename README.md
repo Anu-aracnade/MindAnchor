@@ -84,6 +84,10 @@ venv\Scripts\activate  # For Windows
 # Install dependencies
 pip install -r requirements.txt
 
+# Download the spaCy English model (required)
+python -m spacy download en_core_web_sm
+
+
 # Run the app
 python main.py
 ```

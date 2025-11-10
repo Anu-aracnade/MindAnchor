@@ -4,6 +4,9 @@ import ollama
 import sqlite3
 import datetime
 import logging
+import spacy
+nlp = spacy.load("en_core_web_sm")
+
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 
