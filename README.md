@@ -1,5 +1,14 @@
 # 🧠 MindAnchor ⚓
 
+![Python Version](https://img.shields.io/badge/Python-3.13.5-blue?logo=python&logoColor=yellow)
+![Dependencies](https://img.shields.io/badge/Dependencies-Installed%20✓-brightgreen)
+![License](https://img.shields.io/badge/License-MIT--NC-orange)
+![Status](https://img.shields.io/badge/Status-Active%20Development-blueviolet)
+![Hackathon](https://img.shields.io/badge/Built%20At-Hack--O--Octo%203.0-red)
+![Team](https://img.shields.io/badge/Team-Quantum%20Overdrive-blue)
+![Built%20With](https://img.shields.io/badge/Built%20With-Python%20%7C%20OpenCV%20%7C%20Tkinter-success)
+
+
 **MindAnchor** — a smart focus companion app built in just 24 hours during **Hack-O-Octo 3.0**, organized by **GDG Chandigarh University**. Created by **Team Quantum Overdrive**, MindAnchor helps Gen Z students fight distractions, track focus, and improve productivity using AI-powered guidance, webcam presence detection, and a friendly chatbot named **Anchor**.
 
 ---
