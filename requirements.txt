@@ -1,0 +1,20 @@
+# GUI
+tkinter
+
+# Computer Vision
+opencv-python
+
+# Data handling and visualization
+numpy
+pandas
+matplotlib
+pillow
+sqlite3
+
+# AI / Chatbot
+chatterbot
+chatterbot-corpus
+ollama
+
+# Future ML integration (planned)
+# scikit-learn

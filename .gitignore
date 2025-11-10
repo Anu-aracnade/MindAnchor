@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+env/
+
+# Editor and temp files
+.vscode/
+tempCodeRunnerFile.py
+
+# Local databases & chatbot brain
+*.sqlite3
+*.db
+
+# Local data and reports
+data/
+reports/
+
+# OS junk
+.DS_Store
+Thumbs.db
